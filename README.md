@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/caullenomdahl-pexels-mcp-server-badge.png)](https://mseep.ai/app/caullenomdahl-pexels-mcp-server)
+
 # Pexels MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@CaullenOmdahl/pexels-mcp-server)](https://smithery.ai/server/@CaullenOmdahl/pexels-mcp-server)
